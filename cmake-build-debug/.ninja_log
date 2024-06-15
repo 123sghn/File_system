@@ -1,0 +1,10 @@
+# ninja log v5
+46	2582	7393942368516719	CMakeFiles/FileSystem.dir/src/DiskDriver.cpp.obj	b4afc2d2f05aec43
+4	732	7401229190619381	build.ninja	c83d9bfb38f182ae
+59	11870	7393942463108001	CMakeFiles/FileSystem.dir/src/entity/Vim.cpp.obj	808c150616bace26
+33	1413	7393667407521335	CMakeFiles/FileSystem.dir/src/entity/FreeBlockStack.cpp.obj	ccef1a54cafca214
+34	2953	7393942373723388	CMakeFiles/FileSystem.dir/src/FileSystem.cpp.obj	eb0e6f6c1222e68e
+15	10835	7393942452767810	CMakeFiles/FileSystem.dir/main.cpp.obj	ba131c1e784d21ee
+107	12179	7393942466174158	CMakeFiles/FileSystem.dir/src/Shell.cpp.obj	945730a1139ef177
+74	12210	7393942466508966	CMakeFiles/FileSystem.dir/src/UserInterface.cpp.obj	d45c203645a7517a
+12211	12900	7393942473360610	FileSystem.exe	e69e092f7292c0a5
